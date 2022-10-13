@@ -1,8 +1,8 @@
-### Cześć! 👋
+## Cześć! 👋
 
-## Miłosz Pawłowski - Front-end Web Developer
+### Miłosz Pawłowski - Front-end Web Developer
 
-Tech Stack:
+#### Tech Stack:
 - HTML
 - CSS
 - SCSS
