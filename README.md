@@ -1,4 +1,4 @@
-## Cześć! 👋
+## Hey! 👋
 
 ### Miłosz Pawłowski - Front-end Web Developer
 
