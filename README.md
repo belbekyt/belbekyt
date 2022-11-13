@@ -6,10 +6,11 @@
 - HTML
 - CSS
 - SCSS
+- TailwindCss (still learning)
 - JavaScrript
 - JQuery
 - Owl-Carousel
-- PHP (tylko podstawy)
-- WP (tylko podstawy)
+- PHP (basics)
+- WP (basics)
 - SQL/MySQL
-- Bootstrap (Wciąż się uczę)
+- Bootstrap (basics)
