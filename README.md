@@ -3,7 +3,7 @@
 ### Miłosz Pawłowski - Front-end Web Developer
 
 #### Tech Stack:
-- HTML                         ⭐⭐⭐⭐
+- HTML      &nbsp;&nbsp                   ⭐⭐⭐⭐
 - CSS                          ⭐⭐⭐⭐
 - SCSS                         ⭐⭐⭐
 - TailwindCss (still learning) ⭐
