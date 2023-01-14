@@ -1,6 +1,8 @@
 ## Hey! 👋
 
 ### Miłosz Pawłowski - Front-end Web Developer
+### Searching for an internship or first job as a Junior Web Developer
+
 
 #### Tech Stack:
 - HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐
